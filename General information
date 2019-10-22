@@ -1,0 +1,13 @@
+1. A method cannot be created in another method.
+
+2. Object reference variable will store only non static methods.
+
+3.Why string is immutable and Final?
+	1.String pool in method area in memory
+	  String s1 = "Java";
+	  String s2 = "Java"; common memory location is given to value "java" from where the variable s1 s2 reference it
+	  string is immutable means string value cannot be changed
+	2.Security
+	3.Class loading mechanism: 
+	4.optimisation and performance: no need to generate n number of hashcode of multiple strings
+	5.integer,long,double,float - wrapper classes -- immutable and final  

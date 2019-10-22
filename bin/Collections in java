@@ -1,0 +1,22 @@
+Collections in java:
+	It is Framework to store and manipulate the group of objects
+	
+	Operations: Searching, insertion, deletion, manipulation, sorting
+	
+	Different interfaces available in collection api:
+		Set
+		List
+		Queue
+		Dequeue
+	
+	Different Classes available in collection api:
+		ArrayList
+		Vector
+		LinkedList
+		HashSet
+		TreeSet
+		PriortyQueue
+	
+	Entire collection framework is available in JDK in one package which is called "Java.util"
+	
+	Refer the collections in java diagram on desktop
